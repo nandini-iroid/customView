@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="PriceView">
+        <attr name="size" format="dimension" />
+        <attr name="price" format="integer" />
+        <attr name="text_color" format="color" />
+        <attr name="boldItem" format="boolean" />
+        <attr name="strike" format="boolean" />
+        <attr name="priceIconTypeBtm" format="boolean" />
+        <attr name="font_style" format="string" />
+        <attr name="empty" format="boolean" />
+    </declare-styleable>
+</resources>
